@@ -1,0 +1,14 @@
+Package: workshopFHM
+Type: Package
+Title: Datasets to Support the R Workshop in FHM Department of WUR
+Version: 0.1.0
+Authors@R: c(person("Alberto", "Garre", email = "garre.alberto@gmail.com", role = c("aut", "cre")),
+             person("Jeroen", "Koomen", email = "jeroen.koomen@wur.nl", role = "aut")
+             )
+Description: A compilation of datasets that are used to support some basic R lessons.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Depends: 
+    R (>= 3.2)
